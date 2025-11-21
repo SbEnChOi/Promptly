@@ -1,10 +1,10 @@
 # Promptly – AI Prompt Refiner
--------me-------------
-made by SbEnChOi  --> 
-total dev = 6hour 30min
-2025/11/22 2:00 ~ 8:24 
-Antigravity --> goat 
-with gemini 3 pro planning
+# -------me-------------
+* made by SbEnChOi  --> 
+* total dev = 6hour 30min
+* 2025/11/22 2:00 ~ 8:24 
+* Antigravity --> goat 
+* with gemini 3 pro planning
 -------------------------
 ##  프로젝트 소개
 Promptly는 **Electron** 기반의 투명 오버레이 위젯으로, 데스크톱 어디서든 AI 모델(Gemini, Claude 등)의 프롬프트를 바로 개선할 수 있게 해줍니다. PowerShell UI Automation을 이용해 텍스트 입력 필드를 자동으로 감지하고, 감지되지 않을 경우 수동 입력 사이드바를 제공합니다.
