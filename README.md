@@ -57,3 +57,11 @@ npx -y electron-packager . Promptly --platform=win32 --arch=x64 --out=release --
 
 ## 라이선스
 따윈 없음
+## 앱화면
+
+<img width="711" height="440" alt="Image" src="https://github.com/user-attachments/assets/81fd98ef-352c-49b9-9710-3f8e1855bb21" />
+<img width="2558" height="1512" alt="Image" src="https://github.com/user-attachments/assets/31f5fb7f-bbf5-487b-8567-1f984d4a3b85" />
+<img width="1450" height="488" alt="Image" src="https://github.com/user-attachments/assets/d1ac1651-dbfb-496c-b1ad-89ee0610011a" />
+<img width="1403" height="471" alt="Image" src="https://github.com/user-attachments/assets/0bf6ae57-e7ff-414f-95dd-efeeedf9a69b" />
+<img width="1685" height="1350" alt="Image" src="https://github.com/user-attachments/assets/693bbc60-407a-4dab-9635-9669704b953e" />
+<img width="272" height="119" alt="Image" src="https://github.com/user-attachments/assets/635c39e9-5a6a-4418-9c16-9be7890f1552" />
